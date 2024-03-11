@@ -1,0 +1,50 @@
+package com.example.coffeebean_application
+
+import android.content.Intent
+import androidx.appcompat.app.AppCompatActivity
+import android.os.Bundle
+import android.view.WindowManager
+import android.widget.ImageView
+
+class MainActivity14 : AppCompatActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_main14)
+
+        window.setFlags(
+            WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS,
+            WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS
+        )
+
+        var imgView1 = findViewById<ImageView>(R.id.imageView8)
+        imgView1.setOnClickListener {
+            val intent = Intent(this, MainActivity9::class.java)
+            startActivity(intent)
+        }
+
+        var imgView2 = findViewById<ImageView>(R.id.imageView22)
+        imgView2.setOnClickListener {
+            val intent = Intent(this, MainActivity10::class.java)
+            startActivity(intent)
+        }
+
+        var imgView4 = findViewById<ImageView>(R.id.imageView29ud)
+        imgView4.setOnClickListener {
+            val intent = Intent(this, MainActivity13::class.java)
+            startActivity(intent)
+        }
+
+        var imgView5 = findViewById<ImageView>(R.id.imageView27)
+        imgView5.setOnClickListener {
+            val intent = Intent(this, MainActivity8::class.java)
+            startActivity(intent)
+        }
+
+        var imgView8 = findViewById<ImageView>(R.id.imageView21)
+        imgView8.setOnClickListener {
+            val intent = Intent(this, MainActivity15::class.java)
+            startActivity(intent)
+        }
+
+    }
+}

@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">CoffeeBean_App</string>
+
+    <string name="app_logo">CoffeeBean_App_Logo</string>
+
+    <string name="line_shape">Onboarding_Line_Shape</string>
+    <string name="dot_shape">Onboarding_Dot_Shape</string>
+
+    <string name="onboarding_txt1">Welcome to COFFEE BEAN!</string>
+    <string name="onboarding_txt2">Where every cup tells a story</string>
+    <string name="onboarding_txt3">Discover our menu</string>
+    <string name="onboarding_txt4">Find your perfect brew</string>
+    <string name="onboarding_txt5">Order ahead\nskip the line</string>
+    <string name="onboarding_txt6">Enjoy seamlessly</string>
+
+    <string name="btnTxt1">Skip</string>
+    <string name="btnTxt2">Next</string>
+    <string name="btnTxt3">Back</string>
+    <string name="btnTxt4">Go</string>
+
+    <string name="sign_in_up_txt1">Fuel your passion\nfor coffee!</string>
+    <string name="sign_in_up_txt2">Sign in or sign up\nto explore our\nbrews and beans</string>
+    <string name="sign_in_up_txt3">Brewing up\nsomething special! </string>
+    <string name="sign_in_up_txt4">Enjoy the full\nCoffee Bean\nexperience!</string>
+    <string name="coffee_cup_img">CoffeeCups</string>
+
+    <string name="btnTxt6">SIGN IN</string>
+    <string name="btnTxt7">SIGN UP</string>
+    <string name="btnTxt8">FAB</string>
+
+    <string name="reg_txt1">HELLO!\nWELCOME!</string>
+    <string name="reg_txt2">I agree to Terms and Conditions</string>
+    <string name="reg_txt3">Already have an account? </string>
+    <string name="reg_txt4"> Sign in</string>
+    <string name="reg_txt5">Email</string>
+    <string name="reg_txt6">Password</string>
+    <string name="reg_txt7">Confirm Password</string>
+
+    <string name="reg_login_txt">Or continue with</string>
+    <string name="google_icon">Google</string>
+    <string name="facebook_icon">Facebook</string>
+
+    <string name="login_txt1">WELCOME\nBACK!</string>
+    <string name="login_txt2">Forgot Password?</string>
+    <string name="login_txt3">Don\'t have an account? </string>
+    <string name="login_txt4">Sign up</string>
+    <string name="login_txt5">Email or Username</string>
+    <string name="login_txt6">Password</string>
+
+    <string name="home_txt1">Good Morning!\nKevin Jake</string>
+    <string name="home_txt2">Discover\nYour Perfect Brew</string>
+    <string name="home_txt3">Categories</string>
+    <string name="home_txt4">Espresso</string>
+    <string name="home_txt5">Frappuccino</string>
+    <string name="home_txt6">Specialty</string>
+    <string name="home_txt7">Other</string>
+    <string name="home_txt8">Most Popular</string>
+    <string name="home_txt9">All</string>
+    <string name="search">What would you like to drink?</string>
+
+    <string name="profile_txt1">Kevin Jaker</string>
+    <string name="profile_txt2">kevinjaker</string>
+    <string name="profile_txt3">Name:  Kevin Jaker</string>
+    <string name="profile_txt4">Username:  kevinjaker</string>
+    <string name="profile_txt5">Email:  kevinjaker@gmail.com</string>
+    <string name="profile_txt7">Phone:  0710875732</string>
+    <string name="profile_txt8">City:  NewYork</string>
+    <string name="profile_txt9">Gender:  Male</string>
+
+    <string name="profile_btn_txt1">Edit</string>
+    <string name="profile_btn_txt2">Save</string>
+
+    <string name="notification_txt1">Notifications</string>
+    <string name="notification_txt2">New Offer</string>
+    <string name="notification_txt3">39 mins ago</string>
+    <string name="notification_txt4">Hurry! Today\'s special offer:\nBuy one get one free on all coffee drinks at Coffee Bean.</string>
+
+    <string name="cappuccino">Cappuccino</string>
+    <string name="cappuccino_price">$5.80</string>
+    <string name="cappuccino_size">Coffee Size</string>
+    <string name="cappuccino_ml">160ml</string>
+    <string name="cappuccino_about">About Coffee</string>
+    <string name="addtocart">ADD TO CART</string>
+    <string name="description">A classic Italian coffee made with equal parts espresso, steamed milk, and milk foam. Enjoy the perfect balance of flavors and textures in every sip. Indulge in the rich, creamy goodness of this iconic beverage.</string>
+
+    <string name="Espresso_based_Coffe">Espresso Based Coffee</string>
+
+    <string name="favorite">My Favorites</string>
+    <string name="CART">CART</string>
+
+    <string name="Cart_total">Items</string>
+    <string name="Discount">Discount</string>
+    <string name="Total">Total</string>
+    <string name="Cart_total_val">$ 23.00</string>
+    <string name="Discount_val">-$ 1.50</string>
+    <string name="Total_val">$ 21.50</string>
+.
+
+    <string name="checkout">Proceed To Check Out</string>
+</resources>

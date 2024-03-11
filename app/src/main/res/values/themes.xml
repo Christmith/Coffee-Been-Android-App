@@ -1,0 +1,52 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.CoffeeBean_Application" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+
+    <style name="Theme.CoffeeBean_Application" parent="Base.Theme.CoffeeBean_Application" />
+    
+    <style name="Theme.CoffeeBean_Application.NoActionBarAndStatusBar">
+        <item name="windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="android:fitsSystemWindows">true</item>
+    </style>
+
+    <style name="custom_card_view_style" parent="Widget.Material3.CardView.Filled">
+        <item name="shapeAppearanceOverlay">@style/custom_card_view</item>
+    </style>
+
+    <style name="custom_card_view" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeTopRight">48dp</item>
+        <item name="cornerSizeTopLeft">48dp</item>
+        <item name="cornerSizeBottomRight">0dp</item>
+        <item name="cornerSizeBottomLeft">0dp</item>
+    </style>
+
+    <style name="custom_card_view2_style" parent="Widget.Material3.CardView.Filled">
+        <item name="shapeAppearanceOverlay">@style/custom_card_view2</item>
+    </style>
+
+    <style name="custom_card_view2" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeTopRight">25dp</item>
+        <item name="cornerSizeTopLeft">25dp</item>
+        <item name="cornerSizeBottomRight">25dp</item>
+        <item name="cornerSizeBottomLeft">25dp</item>
+    </style>
+
+    <style name="custom_card_view3_style" parent="Widget.Material3.CardView.Filled">
+        <item name="shapeAppearanceOverlay">@style/custom_card_view3</item>
+    </style>
+
+    <style name="custom_card_view3" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeTopRight">0dp</item>
+        <item name="cornerSizeTopLeft">0dp</item>
+        <item name="cornerSizeBottomRight">48dp</item>
+        <item name="cornerSizeBottomLeft">48dp</item>p
+    </style>
+
+</resources>

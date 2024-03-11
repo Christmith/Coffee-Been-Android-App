@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="whitedark">#F8F8F8</color>
+    <color name="Onboarding_Background_Color">#FFB99B5E</color>
+    <color name="App_Background_Color">#FFB99B5E</color>
+    <color name="App_Background_Color_upper_light">#80B99B5E</color>
+    <color name="App_Background_Color_light">#34A88F5E</color>
+    <color name="App_Background_Color_light2">#B2A88F5E</color>
+    <color name="homepage_text">#3B1415</color>
+    <color name="homepage_text1">#803B1415</color>
+</resources>
